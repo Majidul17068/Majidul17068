@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majidul17068" alt="majidul17068" /></a> </p>
 
-- 🌱 I’m currently learning **Django and Flask**
+- 🌱 I’m currently learning **MLOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Majidul17068](https://github.com/Majidul17068)
 
