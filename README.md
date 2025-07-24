@@ -54,6 +54,7 @@ Check out my full portfolio, projects, and more at:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
 </p>
 
 ### Machine Learning, Deep Learning, AI
@@ -94,7 +95,7 @@ Check out my full portfolio, projects, and more at:
 ### Automation
 <p align="left">
   <img src="assets/logos/n8n-logo-png_seeklogo-470809.png" alt="n8n" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/make-2.svg" alt="Make.com" width="40" height="40"/>
+  <img src="assets/logos/make-color.png" alt="Make.com" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" alt="Zapier" width="40" height="40"/>
   <img src="assets/logos/uipath-logo-png_seeklogo-355174.png" alt="UiPath" width="40" height="40"/>
 </p>
@@ -104,7 +105,7 @@ Check out my full portfolio, projects, and more at:
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" alt="Monday.com" width="40" height="40"/>
   <img src="assets/logos/swagger-logo-png_seeklogo-338589.png" alt="SwaggerHub" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/343914?s=200&v=4" alt="WSO2" width="40" height="40"/>
+  
 </p>
 
 ---
