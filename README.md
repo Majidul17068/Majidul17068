@@ -58,19 +58,17 @@ Check out my full portfolio, projects, and more at:
 
 ### Machine Learning, Deep Learning, AI
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/keras.svg" alt="Keras" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/scikit-learn.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/opencv.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/raw/master/keras.svg" alt="Keras" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/>
 </p>
 
 ### Generative AI & LLM
 <p align="left">
   <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png" alt="LangChain" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/149570548?s=200&v=4" alt="CrewAI" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/hugging-face.svg" alt="Hugging Face" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="40" height="40"/>
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.svg" alt="OpenAI" width="40" height="40"/>
 </p>
 
 ### Database
@@ -95,10 +93,10 @@ Check out my full portfolio, projects, and more at:
 
 ### Automation
 <p align="left">
-  <img src="https://avatars.githubusercontent.com/u/45487743?s=200&v=4" alt="n8n" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/4198636?s=200&v=4" alt="Make.com" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" alt="n8n" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/make-2.svg" alt="Make.com" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" alt="Zapier" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/uipath.svg" alt="UiPath" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/UiPath_Logo.svg" alt="UiPath" width="40" height="40"/>
 </p>
 
 ### Project Management & Other Tools
