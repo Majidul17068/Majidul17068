@@ -157,5 +157,5 @@ Check out my full portfolio, projects, and more at:
 - <b>Email:</b> contact.majidul.islam@gmail.com
 - <b>Phone:</b> +8801521498321
 - <b>GitHub:</b> <a href="https://github.com/Majidul17068">Majidul17068</a>
-- <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/majidulislammurad">Majidul Islam</a>
+- <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/majidulislammurad/">Majidul Islam</a>
 - <b>Portfolio:</b> <a href="https://www.mazidulmurad.xyz/">www.mazidulmurad.xyz</a>
