@@ -58,15 +58,15 @@ Check out my full portfolio, projects, and more at:
 
 ### Machine Learning, Deep Learning, AI
 <p align="left">
-  <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="assets/logos/pytorch-logo-png_seeklogo-341270.png" alt="PyTorch" width="40" height="40"/>
   <img src="https://github.com/valohai/ml-logos/raw/master/keras.svg" alt="Keras" width="40" height="40"/>
-  <img src="https://github.com/valohai/ml-logos/raw/master/scikit-learn.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="assets/logos/scikit-learn-logo-png_seeklogo-337685.png" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/>
 </p>
 
 ### Generative AI & LLM
 <p align="left">
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png" alt="LangChain" width="40" height="40"/>
+  <img src="assets/logos/langchain-white-logo-png_seeklogo-611657.png" alt="LangChain" width="40" height="40"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.svg" alt="OpenAI" width="40" height="40"/>
 </p>
@@ -76,7 +76,7 @@ Check out my full portfolio, projects, and more at:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/78025208?s=200&v=4" alt="Pinecone" width="40" height="40"/>
+  <img src="assets/logos/pinecone-icon-logo-png_seeklogo-482365.png" alt="Pinecone" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/104250990?s=200&v=4" alt="Chroma" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="40" height="40"/>
 </p>
@@ -93,18 +93,17 @@ Check out my full portfolio, projects, and more at:
 
 ### Automation
 <p align="left">
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" alt="n8n" width="40" height="40"/>
+  <img src="assets/logos/n8n-logo-png_seeklogo-470809.png" alt="n8n" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/make-2.svg" alt="Make.com" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" alt="Zapier" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/UiPath_Logo.svg" alt="UiPath" width="40" height="40"/>
+  <img src="assets/logos/uipath-logo-png_seeklogo-355174.png" alt="UiPath" width="40" height="40"/>
 </p>
 
 ### Project Management & Other Tools
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" alt="Monday.com" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="Swagger" width="40" height="40"/>
+  <img src="assets/logos/swagger-logo-png_seeklogo-338589.png" alt="SwaggerHub" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/343914?s=200&v=4" alt="WSO2" width="40" height="40"/>
 </p>
 
