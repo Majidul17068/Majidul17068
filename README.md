@@ -1,29 +1,166 @@
-<h1 align="center">Hi 👋, I'm Majidul Islam Murad</h1>
-<h3 align="center">A passionate and professional AI Developer</h3>
+<h1 align="center">Hi 👋, I'm MD. Majidul Islam</h1>
+<h3 align="center">AI Engineer & MLOps Expert</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majidul17068&label=Profile%20views&color=0e75b6&style=flat" alt="majidul17068" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majidul17068" alt="majidul17068" /></a> </p>
-
-- 🌱 I’m currently learning **MLOps**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Majidul17068](https://github.com/Majidul17068)
-
-- 💬 Ask me about **AI, ML, NLP and Generative AI**
-
-- 📫 How to reach me **majidulislam17068@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/majidulmurad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="majidulmurad" height="30" width="40" /></a>
-<a href="https://fb.com/100009354648666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100009354648666" height="30" width="40" /></a>
+<p align="center">
+  <b>Skilled AI Engineer & MLOps Expert</b> with expertise in Python, FastAPI, and cloud-based AI solutions. Passionate about building scalable AI systems, automation, and integrating advanced AI technologies to solve real-world problems. Experienced in DevOps, project management, and delivering impactful AI-driven solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majidul17068&show_icons=true&locale=en&layout=compact" alt="majidul17068" /></p>
+<p align="center">
+  <a href="mailto:contact.majidul.islam@gmail.com"><img src="https://img.shields.io/badge/Email-contact.majidul.islam@gmail.com-blue?style=flat-square&logo=gmail" /></a>
+  <a href="tel:+8801521498321"><img src="https://img.shields.io/badge/Phone-%2B8801521498321-green?style=flat-square&logo=phone" /></a>
+  <a href="https://github.com/Majidul17068"><img src="https://img.shields.io/badge/GitHub-Majidul17068-black?style=flat-square&logo=github" /></a>
+  <a href="https://linkedin.com/in/majidulmurad"><img src="https://img.shields.io/badge/LinkedIn-majidulmurad-blue?style=flat-square&logo=linkedin" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majidul17068&show_icons=true&locale=en" alt="majidul17068" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majidul17068&" alt="majidul17068" /></p>
+## 🧑‍💻 About Me
+
+- 🔭 Currently working as an <b>AI Programmer Data</b> at Sysnova Information Systems Limited
+- 🧠 Ex-Software Engineer (AI) at TulipTech Limited
+- 🤖 Passionate about AI, MLOps, Automation, and Cloud-based AI solutions
+- 🏆 Experienced in project management (monday.com, Jira), DevOps, and automation (Make, Zapier)
+- 💬 Ask me about <b>AI, ML, NLP, Generative AI, MLOps, Automation</b>
+
+---
+
+<!-- Portfolio Banner -->
+<p align="center">
+  <a href="https://www.mazidulmurad.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-mazidulmurad.xyz-1abc9c?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## 🌐 Portfolio
+
+Check out my full portfolio, projects, and more at:
+
+<p align="center">
+  <a href="https://www.mazidulmurad.xyz/" target="_blank"><b>www.mazidulmurad.xyz</b></a>
+</p>
+
+---
+
+## 🚀 Skills & Tools
+
+### Programming Languages
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+</p>
+
+### Machine Learning, Deep Learning, AI
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://keras.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/keras.svg" alt="keras" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/scikit-learn.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/opencv.svg" alt="opencv" width="40" height="40"/></a>
+</p>
+
+### Generative AI & LLM
+<p align="left">
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139944330?s=200&v=4" alt="LangChain" width="40" height="40"/></a>
+  <a href="https://github.com/langchain-ai/langgraph" target="_blank"><img src="https://avatars.githubusercontent.com/u/139944330?s=200&v=4" alt="LangGraph" width="40" height="40"/></a>
+  <a href="https://www.crewai.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/149570548?s=200&v=4" alt="CrewAI" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hugging-face.svg" alt="Hugging Face" width="40" height="40"/></a>
+  <a href="https://www.groq.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139944330?s=200&v=4" alt="Groq" width="40" height="40"/></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="40" height="40"/></a>
+</p>
+
+### Database
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.pinecone.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/78025208?s=200&v=4" alt="Pinecone" width="40" height="40"/></a>
+  <a href="https://www.trychroma.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/104250990?s=200&v=4" alt="Chroma" width="40" height="40"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="40" height="40"/></a>
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
+
+### Automation
+<p align="left">
+  <a href="https://n8n.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45487743?s=200&v=4" alt="n8n" width="40" height="40"/></a>
+  <a href="https://www.make.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/4198636?s=200&v=4" alt="make.com" width="40" height="40"/></a>
+  <a href="https://zapier.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" alt="zapier" width="40" height="40"/></a>
+  <a href="https://www.uipath.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/uipath.svg" alt="uipath" width="40" height="40"/></a>
+</p>
+
+### Project Management & Other Tools
+<p align="left">
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/></a>
+  <a href="https://www.freshworks.com/freshdesk/" target="_blank"><img src="https://avatars.githubusercontent.com/u/20219562?s=200&v=4" alt="freshdesk" width="40" height="40"/></a>
+  <a href="https://monday.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" alt="monday.com" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://swagger.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="swagger" width="40" height="40"/></a>
+  <a href="https://wso2.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/343914?s=200&v=4" alt="wso2" width="40" height="40"/></a>
+</p>
+
+---
+
+## 💼 Experience
+
+- <b>AI Programmer Data</b> — Sysnova Information Systems Limited (2025–Present)
+  - Built and optimized data-driven AI solutions with backend
+  - Created and implemented FastAPI backend for AI tools
+  - Developed agentic AI solutions and automation for AI agents
+  - Big Data processing with AI
+
+- <b>Software Engineer (AI)</b> — TulipTech Limited (2022–2025)
+  - Developed & deployed AI-driven applications (Python, FastAPI, MLOps)
+  - Automated ML model deployment workflows
+  - Managed Azure-based AI services
+  - Integrated Azure Cognitive Services, MongoDB, CrewAI for conversational AI
+  - Project coordination, DevOps, and automation
+
+- <b>Officer Cadet</b> — Bangladesh Navy (2016–2018)
+  - Leadership, teamwork, crisis management, and technical training
+
+---
+
+## 🛠️ Projects
+- <b>NHS Medicine Parser (Automation):</b> Parsed and extracted critical information from NHS medical records.
+- <b>DMD+D Medicine AI Processor:</b> AI-powered tool for processing and analyzing drug data.
+- <b>Care Home Care Plan and Care AI Agents:</b> AI-driven care plan system and AI agents for personalized care.
+- <b>Project Management Automation:</b> monday.com, Atlassian Jira, Make, Zapier.
+
+---
+
+## 🎓 Certifications
+- Project Management Admin – monday.com
+- Industrial Data Science and Machine Learning – Hr Venture
+- Make.com (My badges)
+- Cyber Security and Ethical Hacking – Arena Web Security
+
+---
+
+## 📚 Research
+- <b>Internet Banking Cyber Security in Bangladesh</b> — IEEE SEM Vol-12, 2024
+- <b>Multi Factor Authentication Kerberos</b>
+
+---
+
+## 📫 Contact
+
+- <b>Email:</b> contact.majidul.islam@gmail.com
+- <b>Phone:</b> +8801521498321
+- <b>GitHub:</b> <a href="https://github.com/Majidul17068">Majidul17068</a>
+- <b>LinkedIn:</b> <a href="https://linkedin.com/in/majidulmurad">majidulmurad</a>
+- <b>Portfolio:</b> <a href="https://www.mazidulmurad.xyz/">www.mazidulmurad.xyz</a>
