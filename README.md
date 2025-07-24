@@ -1,18 +1,26 @@
-<h1 align="center">Hi 👋, I'm MD. Majidul Islam</h1>
-<h3 align="center">AI Engineer & MLOps Expert</h3>
+<h3 align="center">Hi there, I'm MD. Majidul Islam! 👋</h3>
 
-<p align="center">
-  <b>Skilled AI Engineer & MLOps Expert</b> with expertise in Python, FastAPI, and cloud-based AI solutions. Passionate about building scalable AI systems, automation, and integrating advanced AI technologies to solve real-world problems. Experienced in DevOps, project management, and delivering impactful AI-driven solutions.
-</p>
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/Majidul17068">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AI+Specialist;MLOps+Expert;Data+Science+Expert;AI+Engineer+%26+MLOps+Expert;Cloud+AI+Solutions+Architect;Automation+%26+DevOps+Specialist;Generative+AI+%7C+NLP+%7C+LLM+Expert;Project+Management+%7C+AI+Delivery;Let%27s+Build+Impactful+AI+Together" alt="Typing SVG" />
+    </a>
+  </p>
 
----
+  <b>🚀 Building Scalable AI & Automation Solutions | Python, FastAPI, Cloud, MLOps</b>
 
-<p align="center">
-  <a href="mailto:contact.majidul.islam@gmail.com"><img src="https://img.shields.io/badge/Email-contact.majidul.islam@gmail.com-blue?style=flat-square&logo=gmail" /></a>
-  <a href="tel:+8801521498321"><img src="https://img.shields.io/badge/Phone-%2B8801521498321-green?style=flat-square&logo=phone" /></a>
-  <a href="https://github.com/Majidul17068"><img src="https://img.shields.io/badge/GitHub-Majidul17068-black?style=flat-square&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/majidulislammurad/"><img src="https://img.shields.io/badge/LinkedIn-majidulmurad-blue?style=flat-square&logo=linkedin" /></a>
-</p>
+  <p>
+    <a href="https://www.mazidulmurad.xyz/">
+      <img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/majidulislammurad/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:contact.majidul.islam@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
