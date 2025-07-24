@@ -173,3 +173,7 @@ Check out my full portfolio, projects, and more at:
 ## 🕹️ Pacman Contribution Animation
 
 ![Pacman animation](https://raw.githubusercontent.com/Majidul17068/Majidul17068/output/dist/pacman-contribution-graph.svg)
+
+## 🐍 Snake Contribution Animation
+
+![Snake animation](https://raw.githubusercontent.com/Majidul17068/Majidul17068/output/github-contribution-grid-snake.svg)
