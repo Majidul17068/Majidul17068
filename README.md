@@ -167,3 +167,9 @@ Check out my full portfolio, projects, and more at:
 - <b>GitHub:</b> <a href="https://github.com/Majidul17068">Majidul17068</a>
 - <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/majidulislammurad/">Majidul Islam</a>
 - <b>Portfolio:</b> <a href="https://www.mazidulmurad.xyz/">www.mazidulmurad.xyz</a>
+
+---
+
+## 🕹️ Pacman Contribution Animation
+
+![Pacman animation](https://github.com/Majidul17068/Majidul17068/blob/output/pacman-contribution-graph.svg)
