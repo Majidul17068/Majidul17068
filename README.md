@@ -11,7 +11,7 @@
   <a href="mailto:contact.majidul.islam@gmail.com"><img src="https://img.shields.io/badge/Email-contact.majidul.islam@gmail.com-blue?style=flat-square&logo=gmail" /></a>
   <a href="tel:+8801521498321"><img src="https://img.shields.io/badge/Phone-%2B8801521498321-green?style=flat-square&logo=phone" /></a>
   <a href="https://github.com/Majidul17068"><img src="https://img.shields.io/badge/GitHub-Majidul17068-black?style=flat-square&logo=github" /></a>
-  <a href="https://linkedin.com/in/majidulmurad"><img src="https://img.shields.io/badge/LinkedIn-majidulmurad-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/majidulislammurad/"><img src="https://img.shields.io/badge/LinkedIn-majidulmurad-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 
 ---
