@@ -49,68 +49,65 @@ Check out my full portfolio, projects, and more at:
 
 ### Programming Languages
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
 ### Machine Learning, Deep Learning, AI
 <p align="left">
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://keras.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/keras.svg" alt="keras" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/scikit-learn.svg" alt="scikit-learn" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/opencv.svg" alt="opencv" width="40" height="40"/></a>
+  <img src="https://cdn.worldvectorlogo.com/logos/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/keras.svg" alt="Keras" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/scikit-learn.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/opencv.svg" alt="OpenCV" width="40" height="40"/>
 </p>
 
 ### Generative AI & LLM
 <p align="left">
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139944330?s=200&v=4" alt="LangChain" width="40" height="40"/></a>
-  <a href="https://github.com/langchain-ai/langgraph" target="_blank"><img src="https://avatars.githubusercontent.com/u/139944330?s=200&v=4" alt="LangGraph" width="40" height="40"/></a>
-  <a href="https://www.crewai.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/149570548?s=200&v=4" alt="CrewAI" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hugging-face.svg" alt="Hugging Face" width="40" height="40"/></a>
-  <a href="https://www.groq.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139944330?s=200&v=4" alt="Groq" width="40" height="40"/></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png" alt="LangChain" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/149570548?s=200&v=4" alt="CrewAI" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/hugging-face.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="40" height="40"/>
 </p>
 
 ### Database
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.pinecone.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/78025208?s=200&v=4" alt="Pinecone" width="40" height="40"/></a>
-  <a href="https://www.trychroma.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/104250990?s=200&v=4" alt="Chroma" width="40" height="40"/></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/78025208?s=200&v=4" alt="Pinecone" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/104250990?s=200&v=4" alt="Chroma" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="40" height="40"/>
 </p>
 
 ### Cloud & DevOps
 <p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ### Automation
 <p align="left">
-  <a href="https://n8n.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45487743?s=200&v=4" alt="n8n" width="40" height="40"/></a>
-  <a href="https://www.make.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/4198636?s=200&v=4" alt="make.com" width="40" height="40"/></a>
-  <a href="https://zapier.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" alt="zapier" width="40" height="40"/></a>
-  <a href="https://www.uipath.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/uipath.svg" alt="uipath" width="40" height="40"/></a>
+  <img src="https://avatars.githubusercontent.com/u/45487743?s=200&v=4" alt="n8n" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/4198636?s=200&v=4" alt="Make.com" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" alt="Zapier" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/uipath.svg" alt="UiPath" width="40" height="40"/>
 </p>
 
 ### Project Management & Other Tools
 <p align="left">
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/></a>
-  <a href="https://www.freshworks.com/freshdesk/" target="_blank"><img src="https://avatars.githubusercontent.com/u/20219562?s=200&v=4" alt="freshdesk" width="40" height="40"/></a>
-  <a href="https://monday.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" alt="monday.com" width="40" height="40"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://swagger.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="swagger" width="40" height="40"/></a>
-  <a href="https://wso2.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/343914?s=200&v=4" alt="wso2" width="40" height="40"/></a>
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" alt="Monday.com" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="Swagger" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/343914?s=200&v=4" alt="WSO2" width="40" height="40"/>
 </p>
 
 ---
