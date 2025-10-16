@@ -26,8 +26,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working as an <b>AI Programmer Data</b> at Sysnova Information Systems Limited
-- 🧠 Ex-Software Engineer (AI) at TulipTech Limited
+- 🔭 Currently working as an <b>AI/ML Engineer</b> at Tuliptech Limited
+- 🧠 Ex-AI Programmer Data at Sysnova Information Systems Limited(Kazi farms Group)
 - 🤖 Passionate about AI, MLOps, Automation, and Cloud-based AI solutions
 - 🏆 Experienced in project management (monday.com, Jira), DevOps, and automation (Make, Zapier)
 - 💬 Ask me about <b>AI, ML, NLP, Generative AI, MLOps, Automation</b>
