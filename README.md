@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
 
 ###
@@ -37,13 +37,12 @@
 - 🔭 Currently working as an <b>AI/ML Engineer</b> at Tuliptech Limited
 - 🧠 Ex-AI Programmer Data at Sysnova Information Systems Limited(Kazi farms Group)
 - 🤖 Passionate about AI, MLOps, Automation and Cloud-based AI solutions
-- 🏆 Experienced in project management (monday.com, Jira), DevOps, and automation (N8N, Make, Zapier)
+- 🏆 Experienced in project management (monday.com, Jira), Agentic AI, Multi Agent, Fine tuning,MLOps, Data 
 - 💬 Ask me about <b>Agentic AI, ML, NLP, Generative AI, MLOps, Automation</b>
 
-<p align="left"></br>✨ Building AI Solutions Since 2022<br>📚 Currently learning: Generative AI, Multi Agent Collaboration, Cloud Computing, Vector Database, Advanced MLOps.<br>🎯 Goals: "Develop innovative AI solutions that enhance business efficiency and drive real-world impact. "<br>🎮 Fun fact: <b>"Can debug code while dreaming."</b>
+<p align="left"></br>✨ Building AI Solutions Since 2022<br>📚 Currently learning: Generative AI, Multi Agent Collaboration, Cloud Computing, Vector Database, Advanced MLOps.<br>🎯 Goals: "Develop innovative AI solutions that enhance business efficiency and drive real-world impact."
 
 ---
-
 
 <p align="center">
   <a href="https://www.mazidulmurad.xyz/" target="_blank">
@@ -51,7 +50,7 @@
   </a>
 </p>
 
-<h2 align="left">🧑‍💻️ Language and tools proficiency 🛠</h2>
+<h2 align="left">Programming Language and tools proficiency</h2>
 
 ### Programming Languages
 <div align="left">
@@ -109,7 +108,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" height="40"/>
 </div>
 
-### Cloud & DevOps
+### Cloud & MLOps
 <div align="left">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="40"/>
   <img width="12" />
@@ -148,28 +147,6 @@
 
 ###
 
----
-
-## 💼 Experience
-
-- <b>AI Programmer Data</b> — Sysnova Information Systems Limited (2025–Present)
-  - Built and optimized data-driven AI solutions with backend
-  - Created and implemented FastAPI backend for AI tools
-  - Developed agentic AI solutions and automation for AI agents
-  - Big Data processing with AI
-
-- <b>Software Engineer (AI)</b> — TulipTech Limited (2022–2025)
-  - Developed & deployed AI-driven applications (Python, FastAPI, MLOps)
-  - Automated ML model deployment workflows
-  - Managed Azure-based AI services
-  - Integrated Azure Cognitive Services, MongoDB, CrewAI for conversational AI
-  - Project coordination, DevOps, and automation
-
-- <b>Officer Cadet</b> — Bangladesh Navy (2016–2018)
-  - Leadership, teamwork, crisis management, and technical training
-
----
-
 ## 🛠️ Projects
 - <b>NHS Medicine Parser (Automation):</b> Parsed and extracted critical information from NHS medical records.
 - <b>DMD+D Medicine AI Processor:</b> AI-powered tool for processing and analyzing drug data.
@@ -192,7 +169,7 @@
 
 ---
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 What I Love most :</h3>
 
 <div align="center">
   <img height="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82"  />
@@ -202,24 +179,8 @@
   <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRlMDRpcjFzZHB4NHZxMWM1OWkyNnFjN2I1bDh2NHV3bmUwZ3RodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif"  />
 </div>
 
-
+---
 ###
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Majidul17068 &stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak stats"  />
-
-  <!-- Languages Graph -->
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Majidul17068&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Languages Graph"
-  />
-
-</div>
-
-
 ###
 
 <h3 align="left">📊 Activities</h3>
