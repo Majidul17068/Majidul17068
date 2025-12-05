@@ -208,11 +208,7 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Majidul17068&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Majidul17068 &stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak stats"  />
 
   <!-- Languages Graph -->
   <img
