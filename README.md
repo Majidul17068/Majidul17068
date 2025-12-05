@@ -172,11 +172,8 @@
 <h3 align="left">🔥 What I Love most :</h3>
 
 <div align="center">
-  <img height="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82"  />
-</div>
-
-<div align="center">
-  <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRlMDRpcjFzZHB4NHZxMWM1OWkyNnFjN2I1bDh2NHV3bmUwZ3RodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif"  />
+  <img height="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRlMDRpcjFzZHB4NHZxMWM1OWkyNnFjN2I1bDh2NHV3bmUwZ3RodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif"  />
 </div>
 
 ---
