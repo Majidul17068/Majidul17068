@@ -231,7 +231,10 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Majidul17068&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img
+    src="https://raw.githubusercontent.com/Majidul17068/Majidul17068/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
 </div>
 
 ###
