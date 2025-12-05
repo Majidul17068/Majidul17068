@@ -206,6 +206,7 @@
 ###
 
 <div align="center">
+
   <!-- GitHub Stats -->
   <img
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Majidul17068&show_icons=true&theme=tokyonight&hide_border=true"
@@ -213,12 +214,13 @@
     alt="GitHub Stats"
   />
 
-  <!-- Top Languages -->
+  <!-- Languages Graph -->
   <img
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Majidul17068&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true"
     height="180"
     alt="Languages Graph"
   />
+
 </div>
 
 
