@@ -51,123 +51,124 @@
 </p>
 
 <h2 align="left">Programming Language and tools proficiency</h2>
-  <table>
+<h2>Programming Languages and Tools Proficiency</h2>
+
+<table width="100%">
   <tr>
-    <td>
-
-### Programming Languages
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40"/>
-</div>
-
+    <!-- 1. Programming Languages -->
+    <td width="33%" valign="top">
+      <h3>Programming Languages</h3>
+      <div align="left">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" height="40"/>
+      </div>
     </td>
-    <td>
 
-### Machine Learning, Deep Learning, AI
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://github.com/valohai/ml-logos/raw/master/keras.svg" height="40"/>
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
-</div>
-
+    <!-- 2. ML / DL / AI -->
+    <td width="33%" valign="top">
+      <h3>Machine Learning, Deep Learning, AI</h3>
+      <div align="left">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="40"/>
+        <img width="12" />
+        <img src="https://github.com/valohai/ml-logos/raw/master/keras.svg" alt="Keras" height="40"/>
+        <img width="12" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40"/>
+        <img width="12" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="40"/>
+      </div>
     </td>
-    <td>
 
-### Generative AI & LLM
-<div align="left">
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40"/>
-  <img width="12" />
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40"/>
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.svg" height="40"/>
-</div>
-
+    <!-- 3. Generative AI & LLM -->
+    <td width="33%" valign="top">
+      <h3>Generative AI &amp; LLM</h3>
+      <div align="left">
+        <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" height="40"/>
+        <img width="12" />
+        <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" height="40"/>
+        <img width="12" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.svg" alt="OpenAI" height="40"/>
+      </div>
     </td>
   </tr>
+
   <tr>
-    <td>
-
-### Database
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" height="40"/>
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/104250990?s=200&v=4" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" height="40"/>
-</div>
-
+    <!-- 4. Database -->
+    <td width="33%" valign="top">
+      <h3>Database</h3>
+      <div align="left">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
+        <img width="12" />
+        <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="Pinecone" height="40"/>
+        <img width="12" />
+        <img src="https://avatars.githubusercontent.com/u/104250990?s=200&v=4" alt="Chroma" height="40"/>
+        <img width="12" />
+        <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" height="40"/>
+      </div>
     </td>
-    <td>
 
-### Cloud & MLOps
-<div align="left">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40"/>
-</div>
-
+    <!-- 5. Cloud & MLOps -->
+    <td width="33%" valign="top">
+      <h3>Cloud &amp; MLOps</h3>
+      <div align="left">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40"/>
+        <img width="12" />
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40"/>
+      </div>
     </td>
-    <td>
 
-### Project Management & Other Tools
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" height="40"/>
-  <img width="12" />
-  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="40"/>
-</div>
-
+    <!-- 6. Project Management & Other Tools -->
+    <td width="33%" valign="top">
+      <h3>Project Management &amp; Other Tools</h3>
+      <div align="left">
+        <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="40"/>
+        <img width="12" />
+        <img src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" alt="Monday.com" height="40"/>
+        <img width="12" />
+        <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="SwaggerHub" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="40"/>
+        <img width="12" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="40"/>
+      </div>
     </td>
   </tr>
 </table>
-
+ 
   
 ###
 
