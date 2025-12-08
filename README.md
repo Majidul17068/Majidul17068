@@ -51,7 +51,6 @@
 </p>
 
 <h2 align="left">Programming Language and tools proficiency</h2>
-<h2>Programming Languages and Tools Proficiency</h2>
 
 <table width="100%">
   <tr>
