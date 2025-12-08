@@ -52,6 +52,9 @@
 
 <h2 align="left">Programming Language and tools proficiency</h2>
 
+<table>
+<tr>
+  
 ### Programming Languages
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
@@ -92,7 +95,9 @@
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.svg" alt="OpenAI" height="40"/>
 </div>
-
+</tr>
+<tr>
+  
 ### Database
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/>
@@ -144,8 +149,9 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="40"/>
 </div>
-
+</tr>
 ###
+</table>
 
 ## 🛠️ Projects
 - <b>NHS Medicine Parser (Automation):</b> Parsed and extracted critical information from NHS medical records.
