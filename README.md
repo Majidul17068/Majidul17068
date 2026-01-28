@@ -35,60 +35,57 @@ I am a passionate **AI/ML Engineer** with over 2 years of experience in designin
 
 ## 💼 Experience
 
-### **Tuliptech Limited** | *AI/ML Engineer*
-*May 2024 – Present*
-- **Agentic AI & RAG:** Designed cutting-edge **Agentic AI** systems and **RAG** pipelines using **LangChain** and **LlamaIndex** to enhance information retrieval and automation reliability.
-- **LLM Fine-tuning:** Fine-tuned open-source LLMs (Llama 3, Mistral) for domain-specific tasks, optimized for **AWS Bedrock** and **Azure**.
-- **Data Engineering:** Built robust ETL pipelines extracting data from PDF/Text/Images using OCR and LayoutLM models.
-
-### **Sysnova Information Systems** | *AI Programmer*
-*Nov 2022 – Apr 2024*
-- **Medical Automation:** Developed the **NHS Medicine Parser**, automating the extraction of data from complex medical records with 95%+ accuracy.
-- **Care Home AI:** Engineered AI agents for generating personalized care plans for care homes in the UK.
-- **Project Management:** Integrated **monday.com**, **Jira**, and **Make.com** for seamless project tracking and automation.
+| 🏢 Company | 👨‍💻 Role | 📅 Duration | 🚀 Focus |
+| :--- | :--- | :--- | :--- |
+| **Tuliptech Limited** | AI/ML Engineer | *May '24 – Present* | Agentic AI, RAG Systems, Multi-Agent Orchestration, LLM Fine-tuning |
+| **Sysnova (Kazi Farms)** | AI Programmer | *Nov '22 – Apr '24* | Medical Automation (NHS Parser), Care Home AI, Project Pipelines |
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Expertise
 
 <table width="100%">
   <tr>
-    <td width="30%" valign="top">
-      <h3 align="center">Languages & Frameworks</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-      </div>
+    <td width="50%" valign="top">
+      <h3>🏎️ Edge AI & GPU Systems</h3>
+      <ul>
+        <li><b>Edge Platforms:</b> NVIDIA Jetson</li>
+        <li><b>Parallel Computing:</b> CUDA, GPU memory hierarchy</li>
+        <li><b>Deployment:</b> TensorRT, ONNX Runtime, PyTorch, TensorFlow</li>
+        <li><b>Optimization:</b> Kernel fusion, batching, FP16/INT8 quantization</li>
+        <li><b>Real-Time:</b> Low-latency vision & sensor pipelines</li>
+      </ul>
     </td>
-    <td width="40%" valign="top">
-      <h3 align="center">AI, ML & Gen-AI</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white" />
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-      </div>
+    <td width="50%" valign="top">
+      <h3>🤖 LLM & Multi-Agent Systems</h3>
+      <ul>
+        <li><b>Frameworks:</b> Hugging Face, LangChain, LlamaIndex</li>
+        <li><b>RAG Systems:</b> Embedding analysis, ChromaDB, Pinecone</li>
+        <li><b>Multi-Agent:</b> CrewAI, LangGraph, Agent Orchestration</li>
+        <li><b>LLM Ops:</b> Phoenix, Langfuse (Tracing, Eval, Cost Analysis)</li>
+        <li><b>APIs:</b> OpenAI, DeepSeek, Groq, Ollama</li>
+      </ul>
     </td>
-    <td width="30%" valign="top">
-      <h3 align="center">Cloud & DevOps</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-      </div>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ MLOps & Infrastructure</h3>
+      <ul>
+        <li><b>Backend:</b> FastAPI, Streamlit</li>
+        <li><b>MLOps:</b> MLflow, Model Versioning, Experiment Tracking</li>
+        <li><b>CI/CD:</b> Docker, GitHub Actions, Jenkins</li>
+        <li><b>Cloud:</b> AWS, GCP, Azure</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Data & Applied ML</h3>
+      <ul>
+        <li><b>Libraries:</b> Pandas, NumPy, Scikit-Learn</li>
+        <li><b>Data Processing:</b> ETL Pipelines, Data Analysis</li>
+      </ul>
     </td>
   </tr>
 </table>
-
-**Databases:** PostgreSQL, MongoDB, Redis, Pinecone, ChromaDB, Qdrant.
 
 ---
 
