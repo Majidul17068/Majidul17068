@@ -1,18 +1,8 @@
 <h1 align="center">Hi there, I'm MD. Majidul Islam! 👋</h1>
 
-###
-
-<p align="left">
-  <b>Glad to see you here...😇</b>
-</p>
-
-<br clear="both">
-
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
-
-###
 
 <div align="center">
   <p align="center">
@@ -21,7 +11,7 @@
     </a>
   </p>
 
-  <b>🚀 Building Scalable Agentic AI Solutions &  Model Fine tuning | Python, FastAPI, Cloud, MLOps</b>
+  <b>🚀 Building Scalable Agentic AI Solutions & Model Fine tuning | Python, FastAPI, Cloud, MLOps</b>
 
   <p>
     <a href="https://www.mazidulmurad.xyz/"><img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -34,207 +24,124 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working as an <b>AI/ML Engineer</b> at Tuliptech Limited
-- 🧠 Ex-AI Programmer Data at Sysnova Information Systems Limited(Kazi farms Group)
-- 🤖 Passionate about AI, MLOps, Automation and Cloud-based AI solutions
-- 🏆 Experienced in project management (monday.com, Jira), Agentic AI, Multi Agent, Fine tuning,MLOps, Data 
-- 💬 Ask me about <b>Agentic AI, ML, NLP, Generative AI, MLOps, Automation</b>
+I am a passionate **AI/ML Engineer** with over 2 years of experience in designing and deploying scalable AI solutions. My expertise lies in **Agentic AI**, **Generative AI**, **MLOps**, and **Cloud Computing**. I have a proven track record of optimizing workflows and delivering high-impact projects in healthcare and automation sectors.
 
-<p align="left"></br>✨ Building AI Solutions Since 2022<br>📚 Currently learning: Generative AI, Multi Agent Collaboration, Cloud Computing, Vector Database, Advanced MLOps.<br>🎯 Goals: "Develop innovative AI solutions that enhance business efficiency and drive real-world impact."
+- 🔭 **Currently:** AI/ML Engineer at **Tuliptech Limited**, focusing on Multi-Agent Systems and RAG pipelines.
+- 🧠 **Previously:** AI Programmer at **Sysnova Information Systems** (Kazi Farms Group).
+- 🤖 **Interests:** Large Language Models (LLMs), Vector Databases, AI Agents, and Event-Driven Architecture.
+- 🎓 **Education:** B.Sc. in Computer Science & Engineering from **Military Institute of Science and Technology (MIST)**.
 
 ---
 
-<p align="center">
-  <a href="https://www.mazidulmurad.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-mazidulmurad.xyz-1abc9c?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
-  </a>
-</p>
+## 💼 Experience
 
-<h2 align="left">Programming Language and tools proficiency</h2>
+### **Tuliptech Limited** | *AI/ML Engineer*
+*May 2024 – Present*
+- **Agentic AI & RAG:** Designed cutting-edge **Agentic AI** systems and **RAG** pipelines using **LangChain** and **LlamaIndex** to enhance information retrieval and automation reliability.
+- **LLM Fine-tuning:** Fine-tuned open-source LLMs (Llama 3, Mistral) for domain-specific tasks, optimized for **AWS Bedrock** and **Azure**.
+- **Data Engineering:** Built robust ETL pipelines extracting data from PDF/Text/Images using OCR and LayoutLM models.
+
+### **Sysnova Information Systems** | *AI Programmer*
+*Nov 2022 – Apr 2024*
+- **Medical Automation:** Developed the **NHS Medicine Parser**, automating the extraction of data from complex medical records with 95%+ accuracy.
+- **Care Home AI:** Engineered AI agents for generating personalized care plans for care homes in the UK.
+- **Project Management:** Integrated **monday.com**, **Jira**, and **Make.com** for seamless project tracking and automation.
+
+---
+
+## 🛠️ Technical Skills
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3>Programming Languages</h3>
-      <div align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40"/>
+    <td width="30%" valign="top">
+      <h3 align="center">Languages & Frameworks</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
       </div>
     </td>
-
-  <td width="33%" valign="top">
-      <h3>Machine Learning, Deep Learning, AI</h3>
-      <div align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://github.com/valohai/ml-logos/raw/master/keras.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
-      </div>
-  </td>
-
-  <td width="33%" valign="top">
-      <h3>Generative AI &amp; LLM</h3>
-      <div align="left">
-        <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40"/>
-        <img width="12"/>
-        <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.svg" height="40"/>
+    <td width="40%" valign="top">
+      <h3 align="center">AI, ML & Gen-AI</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white" />
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
       </div>
     </td>
- </tr>
-
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Database</h3>
-      <div align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://www.svgrepo.com/show/354200/postgresql.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://avatars.githubusercontent.com/u/104250990?s=200&v=4" height="40"/>
-        <img width="12"/>
-        <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" height="40"/>
-      </div>
-    </td>
-
-   <td width="33%" valign="top">
-      <h3>Cloud &amp; MLOps</h3>
-      <div align="left">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40"/>
-      </div>
-    </td>
-
-  <td width="33%" valign="top">
-      <h3>Project Management &amp; Other Tools</h3>
-      <div align="left">
-        <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40"/>
-        <img width="12"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="40"/>
+    <td width="30%" valign="top">
+      <h3 align="center">Cloud & DevOps</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
       </div>
     </td>
   </tr>
-</table> 
-  
-###
+</table>
 
-
-## 🛠️ Projects
-- <b>NHS Medicine Parser (Automation):</b> Parsed and extracted critical information from NHS medical records.
-- <b>DMD+D Medicine AI Processor:</b> AI-powered tool for processing and analyzing drug data.
-- <b>Care Home Care Plan and Care AI Agents:</b> AI-driven care plan system and AI agents for personalized care.
-- <b>Project Management Automation:</b> monday.com, Atlassian Jira, Make, Zapier.
+**Databases:** PostgreSQL, MongoDB, Redis, Pinecone, ChromaDB, Qdrant.
 
 ---
 
-## 🎓 Certifications
-- Project Management Admin – monday.com
-- Industrial Data Science and Machine Learning – Hr Venture
-- Make.com (My badges)
-- Cyber Security and Ethical Hacking – Arena Web Security
+## 🚀 Key Projects
+
+- **🤖 Legal AI Agent:**
+  Developed an intelligent agent for legal document analysis and case prediction using RAG and LLMs. Features include automated summarization and clause extraction.
+
+- **🏥 NHS Medicine Parser:**
+  A highly accurate parser for NHS medical records, extracting medication dosages, frequencies, and instructions to populate databases automatically. Reduced manual data entry time by 90%.
+
+- **👵 Care Home AI Manager:**
+  An integrated system using AI Agents to generate and update personalized care plans for residents, ensuring compliance with UK health standards.
+
+- **💊 DMD+D Medicine Processor:**
+  AI-powered tool for analyzing and processing drug data from the NHS Dictionary of Medicines and Devices.
 
 ---
 
-## 📚 Research
-- <b>Internet Banking Cyber Security in Bangladesh</b> — IEEE SEM Vol-12, 2024
-- <b>Multi Factor Authentication Kerberos</b>
+## 📜 Certifications & Research
+
+### **Certifications**
+- **Deep Learning Specialization** – DeepLearning.AI
+- **Project Management Admin** – monday.com
+- **Industrial Data Science & ML** – Hr Venture
+- **Cyber Security & Ethical Hacking** – Arena Web Security
+
+### **Publications**
+- **"Internet Banking Cyber Security in Bangladesh"** – *IEEE SEM Vol-12, 2024*
 
 ---
 
-<h3 align="left">🔥 What I Love most :</h3>
+<h3 align="center">🔥 Things I Love</h3>
 
 <div align="center">
-  <img height="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82"  />
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRlMDRpcjFzZHB4NHZxMWM1OWkyNnFjN2I1bDh2NHV3bmUwZ3RodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif"  />
+  <img height="180" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82"  />
+  <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRlMDRpcjFzZHB4NHZxMWM1OWkyNnFjN2I1bDh2NHV3bmUwZ3RodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif"  />
 </div>
 
 ---
-###
-###
 
-<h3 align="left">📊 Activities</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
-<br clear="both">
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Majidul17068&radius=16&theme=react&area=true&order=5"
-    height="300"
-    alt="activity-graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Majidul17068&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 </div>
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Majidul17068/Majidul17068/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-  />
+  <img src="https://raw.githubusercontent.com/Majidul17068/Majidul17068/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-###
-
----
-
-
-## 📫 Contact
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/majidulislammurad/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
-  <a href="mailto:contact.majidul.islam@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
-  <a href="https://www.mazidulmurad.xyz/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=1abc9c&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo"  /></a>
-  <a href="https://github.com/Majidul17068" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  /></a>
-</div>
-
-
 
 ---
 
 <div align="center">
-  <b>⭐️ From <a href="https://github.com/Majidul17068">Majidul17068</a> | Let's Build Something Amazing Together! 🚀</b>
+  <b>⭐️ Let's Build Something Amazing Together! | <a href="https://www.mazidulmurad.xyz/">Visit My Portfolio</a></b>
 </div>
-
