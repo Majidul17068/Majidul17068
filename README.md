@@ -22,41 +22,26 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I am a passionate **AI/ML Engineer** with over 2 years of experience in designing and deploying scalable AI solutions. My expertise lies in **Agentic AI**, **Generative AI**, **MLOps**, and **Cloud Computing**. I have a proven track record of optimizing workflows and delivering high-impact projects in healthcare and automation sectors.
+I am a passionate **AI/ML Engineer** with over 3 years of experience in designing and deploying scalable AI solutions. My expertise lies in **Agentic AI**, **Generative AI**, **MLOps**, and **Cloud Computing**. I have a proven track record of optimizing workflows and delivering high-impact projects in healthcare and automation sectors.
 
-- 🔭 **Currently:** AI/ML Engineer at **Tuliptech Limited**, focusing on Multi-Agent Systems and RAG pipelines.
-- 🧠 **Previously:** AI Programmer at **Sysnova Information Systems** (Kazi Farms Group).
-- 🤖 **Interests:** Large Language Models (LLMs), Vector Databases, AI Agents, and Event-Driven Architecture.
-- 🎓 **Education:** B.Sc. in Computer Science & Engineering from **Military Institute of Science and Technology (MIST)**.
+-  **Currently:** AI/ML Engineer at **Tuliptech Limited**  
+-  **Previously:** AI Programmer at **Sysnova Information Systems** (Kazi Farms Group).
 
 ---
 
 ## Core Stack
 
-**EDGE AI & GPU‑ACCELERATED SYSTEMS:** Edge Platforms: NVIDIA Jetson • Parallel Computing: CUDA, GPU memory hierarchy & optimization • Scalability & Performance Optimization: Autoscaling, Redis cache, async workers • Performance Optimization: kernel fusion, batching, FP16/INT8 quantization • Real‑Time Inference: low‑latency vision and sensor processing pipelines
+**Edge Platforms:** NVIDIA Jetson, AI Accelerator
+**Parallel Computing:** CUDA, GPU memory hierarchy & optimization 
+**Scalability & Performance Optimization:** Autoscaling, Redis cache, async workers 
+**Performance Optimization:** kernel fusion, batching, FP16/INT8 quantization 
+**Real‑Time Inference:** low latency vision and data processing pipelines
 
 **LLM SYSTEMS & MULTi‑AGENT ARCHiTECTURES:** LLM Ops & Evaluation: Phoenix, Langfuse (tracing, evaluation, cost/latency analysis)
 
 ---
-
-## 💼 Experience
-
-### **Tuliptech Limited** | *AI/ML Engineer*
-*May 2024 – Present*
-- **Agentic AI & RAG:** Designed cutting-edge **Agentic AI** systems and **RAG** pipelines using **LangChain** and **LlamaIndex** to enhance information retrieval and automation reliability.
-- **LLM Fine-tuning:** Fine-tuned open-source LLMs (Llama 3, Mistral) for domain-specific tasks, optimized for **AWS Bedrock** and **Azure**.
-- **Data Engineering:** Built robust ETL pipelines extracting data from PDF/Text/Images using OCR and LayoutLM models.
-
-### **Sysnova Information Systems** | *AI Programmer*
-*Nov 2022 – Apr 2024*
-- **Medical Automation:** Developed the **NHS Medicine Parser**, automating the extraction of data from complex medical records with 95%+ accuracy.
-- **Care Home AI:** Engineered AI agents for generating personalized care plans for care homes in the UK.
-- **Project Management:** Integrated **monday.com**, **Jira**, and **Make.com** for seamless project tracking and automation.
-
----
-
 ## 🛠️ Technical Skills
 
 <table width="100%">
@@ -101,22 +86,24 @@ I am a passionate **AI/ML Engineer** with over 2 years of experience in designin
 ---
 
 ## 🚀 Key Projects
-
-- **🤖 Legal AI Agent:**
+- **OCR Solution:**
+  Built an end to end OCR pipeline for scanned medical documents achieving 95% character accuracy on noisy, low resolution inputs.
+  
+- **Empathika:**
+  An integrated system using AI Agents to generate and update personalized care plans,assessments and complete care pack for carehomes and ensuring compliance with UK health standards.
+  
+- **Legal AI Agent:**
   Developed an intelligent agent for legal document analysis and case prediction using RAG and LLMs. Features include automated summarization and clause extraction.
 
-- **🏥 NHS Medicine Parser:**
+- **NHS Medicine Parser:**
   A highly accurate parser for NHS medical records, extracting medication dosages, frequencies, and instructions to populate databases automatically. Reduced manual data entry time by 90%.
 
-- **👵 Care Home AI Manager:**
-  An integrated system using AI Agents to generate and update personalized care plans for residents, ensuring compliance with UK health standards.
-
-- **💊 DMD+D Medicine Processor:**
+- **DMD+D Medicine Processor:**
   AI-powered tool for analyzing and processing drug data from the NHS Dictionary of Medicines and Devices.
 
 ---
 
-## 📜 Certifications & Research
+## Certifications & Research
 
 ### **Certifications**
 - **Deep Learning Specialization** – DeepLearning.AI
