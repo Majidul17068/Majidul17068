@@ -33,6 +33,14 @@ I am a passionate **AI/ML Engineer** with over 2 years of experience in designin
 
 ---
 
+## Core Stack
+
+**EDGE AI & GPU‑ACCELERATED SYSTEMS:** Edge Platforms: NVIDIA Jetson • Parallel Computing: CUDA, GPU memory hierarchy & optimization • Scalability & Performance Optimization: Autoscaling, Redis cache, async workers • Performance Optimization: kernel fusion, batching, FP16/INT8 quantization • Real‑Time Inference: low‑latency vision and sensor processing pipelines
+
+**LLM SYSTEMS & MULTi‑AGENT ARCHiTECTURES:** LLM Ops & Evaluation: Phoenix, Langfuse (tracing, evaluation, cost/latency analysis)
+
+---
+
 ## 💼 Experience
 
 ### **Tuliptech Limited** | *AI/ML Engineer*
