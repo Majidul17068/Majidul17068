@@ -34,9 +34,13 @@ I am a passionate **AI/ML Engineer** with over 3 years of experience in designin
 ## Core Stack
 
 **Edge Platforms:** NVIDIA Jetson, AI Accelerator
+
 **Parallel Computing:** CUDA, GPU memory hierarchy & optimization 
+
 **Scalability & Performance Optimization:** Autoscaling, Redis cache, async workers 
+
 **Performance Optimization:** kernel fusion, batching, FP16/INT8 quantization 
+
 **Real‑Time Inference:** low latency vision and data processing pipelines
 
 **LLM SYSTEMS & MULTi‑AGENT ARCHiTECTURES:** LLM Ops & Evaluation: Phoenix, Langfuse (tracing, evaluation, cost/latency analysis)
