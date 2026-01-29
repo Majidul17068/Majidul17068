@@ -24,7 +24,7 @@
 
 <h2 align="center">About Me</h2>
 
-I am an AI/ML Engineer with nearly four years of hands on experience in designing, developing and deploying scalable, production-grade AI systems. My core expertise spans **Agentic AI architectures**, **Generative AI**, **Large Language Model (LLM) fine-tuning**, and **LLMOps driven deployment pipelines**. I have a strong track record of optimizing end-to-end ML workflows, from experimentation to production, and delivering high-impact AI solutions across healthcare, fintech, and large-scale production environments.
+I am an AI/ML Engineer with nearly four years of hands on experience in designing, developing and deploying scalable, production grade AI systems. My core expertise spans **Agentic AI architectures**, **Generative AI**, **Large Language Model (LLM) fine-tuning** and **LLMOps driven deployment pipelines**. I have a strong track record of optimizing end-to-end ML workflows from experimentation to production and delivering high impact AI solutions across healthcare, fintech, and large scale production environments.
 
 -  **Currently:** AI/ML Engineer at **Tuliptech Limited**  
 -  **Previously:** AI Programmer at **Sysnova Information Systems** (Kazi Farms Group).
