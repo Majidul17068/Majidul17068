@@ -22,7 +22,7 @@
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
 I am a passionate **AI/ML Engineer** with over 3 years of experience in designing and deploying scalable AI solutions. My expertise lies in **Agentic AI**, **Generative AI**, **MLOps**, and **Cloud Computing**. I have a proven track record of optimizing workflows and delivering high-impact projects in healthcare and automation sectors.
 
@@ -31,7 +31,7 @@ I am a passionate **AI/ML Engineer** with over 3 years of experience in designin
 
 ---
 
-## Core Stack
+<h2 align="center">Core Stack</h2>
 
 **Edge Platforms:** NVIDIA Jetson, AI Accelerator
 
@@ -46,7 +46,7 @@ I am a passionate **AI/ML Engineer** with over 3 years of experience in designin
 **LLM Ops & Evaluation:** Phoenix, Langfuse (tracing, evaluation, cost, latency analysis)
 
 ---
-## 🛠️ Technical Skills
+<h2 align="center">🛠️ Technical Skills</h2>
 
 <table width="100%">
   <tr>
@@ -89,7 +89,7 @@ I am a passionate **AI/ML Engineer** with over 3 years of experience in designin
 
 ---
 
-## 🚀 Key Projects
+<h2 align="center">🚀 Key Projects</h2>
 - **OCR Solution:**
   Built an end to end OCR pipeline for scanned medical documents achieving 95% character accuracy on noisy, low resolution inputs.
   
@@ -107,7 +107,7 @@ I am a passionate **AI/ML Engineer** with over 3 years of experience in designin
 
 ---
 
-## Certifications & Research
+<h2 align="center">Certifications & Research</h2>
 
 ### **Certifications**
 - **Deep Learning Specialization** – DeepLearning.AI
@@ -129,7 +129,7 @@ I am a passionate **AI/ML Engineer** with over 3 years of experience in designin
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Majidul17068&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
