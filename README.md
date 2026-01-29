@@ -43,7 +43,7 @@ I am a passionate **AI/ML Engineer** with over 3 years of experience in designin
 
 **Real‑Time Inference:** low latency vision and data processing pipelines
 
-**LLM SYSTEMS & MULTi‑AGENT ARCHiTECTURES:** LLM Ops & Evaluation: Phoenix, Langfuse (tracing, evaluation, cost/latency analysis)
+**LLM Ops & Evaluation:** Phoenix, Langfuse (tracing, evaluation, cost, latency analysis)
 
 ---
 ## 🛠️ Technical Skills
