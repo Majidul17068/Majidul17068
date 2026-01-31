@@ -11,7 +11,7 @@
     </a>
   </p>
 
-  <b>🚀 Building Scalable Agentic AI Solutions & Model Fine tuning | Python, FastAPI, Cloud, MLOps</b>
+  <b> Building Scalable AI Solutions </b>
 
   <p>
     <a href="https://www.mazidulmurad.xyz/"><img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
