@@ -22,14 +22,14 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<!-- <h2 align="center">About Me</h2>
 
 I am an AI/ML Engineer with nearly four years of hands on experience in designing, developing and deploying scalable, production grade AI systems. My core expertise spans **Agentic AI architectures**, **Generative AI**, **Large Language Model (LLM) fine-tuning** and **LLMOps driven deployment pipelines**. I have a strong track record of optimizing end-to-end ML workflows from experimentation to production and delivering high impact AI solutions across healthcare, fintech, and large scale production environments.
 
 -  **Currently:** AI/ML Engineer at **Tuliptech Limited**  
 -  **Previously:** AI Programmer at **Sysnova Information Systems** (Kazi Farms Group).
 
----
+--- -->
 
 <h2 align="center">Core Stack</h2>
 
@@ -77,7 +77,7 @@ I am an AI/ML Engineer with nearly four years of hands on experience in designin
 
 ---
 
-<h2 align="center">🚀 Key Projects</h2>
+<!-- <h2 align="center">🚀 Key Projects</h2>
 
 - **OCR Solution:**
   Built an end to end OCR pipeline for scanned medical documents achieving 95% character accuracy on noisy, low resolution inputs.
@@ -92,11 +92,11 @@ I am an AI/ML Engineer with nearly four years of hands on experience in designin
   A highly accurate parser for NHS medical records, extracting medication dosages, frequencies, and instructions to populate databases automatically. Reduced manual data entry time by 90%.
 
 - **DMD+D Medicine Processor:**
-  AI-powered tool for analyzing and processing drug data from the NHS Dictionary of Medicines and Devices.
+  AI-powered tool for analyzing and processing drug data from the NHS Dictionary of Medicines and Devices. -->
 
----
 
-<h2 align="center">Certifications & Research</h2>
+
+<!-- <h2 align="center">Certifications & Research</h2>
 
 ### **Certifications**
 - **Deep Learning Specialization** – DeepLearning.AI
@@ -105,7 +105,7 @@ I am an AI/ML Engineer with nearly four years of hands on experience in designin
 - **Cyber Security & Ethical Hacking** – Arena Web Security
 
 ### **Publications**
-- **"Internet Banking Cyber Security in Bangladesh"** – *IEEE SEM Vol-12, 2024*
+- **"Internet Banking Cyber Security in Bangladesh"** – *IEEE SEM Vol-12, 2024* -->
 
 ---
 
