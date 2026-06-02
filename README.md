@@ -36,7 +36,7 @@ My core expertise spans **Agentic AI architectures**, **Multi-Agent Orchestratio
 
 ---
 
-<h2 align="center">🧰 Featured Open Source — personakit</h2>
+<h2 align="center">Open Source — personakit</h2>
 
 <div align="center">
   <a href="https://pypi.org/project/personakit/">
