@@ -132,10 +132,19 @@ pip install personakit
 
 <div align="center">
   <a href="https://github.com/Majidul17068">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Majidul17068&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Majidul17068&theme=tokyonight" alt="GitHub stats" />
   </a>
   <a href="https://github.com/Majidul17068">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majidul17068&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Majidul17068&theme=tokyonight" alt="Top languages by commits" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Majidul17068">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Majidul17068&theme=tokyonight" alt="Languages by repo count" />
+  </a>
+  <a href="https://github.com/Majidul17068">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Majidul17068&theme=tokyonight" alt="Productive time" />
   </a>
 </div>
 
