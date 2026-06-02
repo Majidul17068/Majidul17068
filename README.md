@@ -76,24 +76,6 @@ pip install personakit
 
 ---
 
-<h2 align="center">Core Stack</h2>
-
-**Languages:** Python, SQL, C++ (CUDA), Bash
-
-**LLMs & NLP:** OpenAI, Anthropic, DeepSeek, Groq, Ollama, LiteLLM, Hugging Face, Fine-tuning, Prompt Engineering
-
-**Agents & Multi-Agent:** LangChain, LlamaIndex, CrewAI, LangGraph, AutoGen, Tool Calling, MCP-style orchestration
-
-**Retrieval & RAG:** ChromaDB, Pinecone, Embedding Models, Semantic Search, Source Attribution
-
-**Edge AI & GPU:** NVIDIA Jetson, CUDA, TensorRT, ONNX Runtime, FP16/INT8 quantization, kernel fusion, real-time inference
-
-**MLOps & Observability:** MLflow, Phoenix, Langfuse, OpenTelemetry, Docker, GitHub Actions, AWS, GCP, Azure
-
-**Backend & Data:** FastAPI, Streamlit, MongoDB, PySpark, big-data pipelines
-
----
-
 <h2 align="center">Technical Skills</h2>
 
 <div align="center">
@@ -140,47 +122,6 @@ pip install personakit
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
-
----
-
-<h2 align="center">🚀 Key Projects</h2>
-
-- **🟢 [personakit](https://github.com/Majidul17068/personakit)** *(Live · Open Source · PyPI)*
-  Declarative Python library for building role-based LLM agents. Cross-provider runtime, streaming, OpenTelemetry, token-cost tracking, multi-turn tool loop. Audit-grade for clinical / legal / fintech.
-
-- **🟢 EMPATHIKA** *(Live in Production · Healthcare AI)*
-  Multi-agent RAG platform for care planning and medication safety. Combines internal clinical records with external medical knowledge for grounded, citation-backed responses. Powered by personakit.
-
-- **🟢 HR Policy Chatbot** *(Live in Production · Enterprise RAG)*
-  Agentic RAG for Kazi Farms Group employees — natural-language access to internal HR & policy documents with full source attribution. Multi-lingual (English/Bangla). Built on DeepSeek + ChromaDB.
-
-- **🟢 AI Bank Reconciliation** *(Live in Production · Financial Automation)*
-  Smart financial workflow automation. AI system that automatically maps and matches bank statements with internal records — drastically reduces manual finance work and accelerates monthly close.
-
-- **AI Sales Forecasting (Big Data)** — ML-based forecasting using historical sales, seasonal trends and external factors. Powers data-driven decisions for marketing and supply-chain teams.
-
-- **NHS Medicine Parser** — Highly accurate NLP+OCR parser for NHS medical records. Extracts medication dosages, frequencies and instructions to populate databases automatically.
-
----
-
-<h2 align="center">🎓 Certifications & Publications</h2>
-
-### **📜 Publications**
-- **"Internet Banking Cyber Security in Bangladesh: Multi-Factor Authentication Kerberos"** — *IEEE SEM Vol-12, January 2024*
-
-### **🏅 Memberships & Certifications**
-- **PMI Member** — Project Management Institute (Global), 2026
-- **Oracle Certified Foundation Associate (AI Foundation)** — Oracle University, 2025
-- **Agile Project Management Practitioner** — HP LIFE, 2024
-- **Admin Official Certification** — monday.com, 2023
-- **Cyber Security (Ethical Hacking)** — Arena Web Security – Batch 42, 2023
-
-### **📚 Courses & Practice**
-- Complete Data Science Bootcamp — Udemy
-- Complete MLOps Bootcamp with 10+ End-to-End ML Projects — Udemy
-- AI Engineer Agentic Track: The Complete Agent & MCP Course — Udemy
-- AI Engineer Production Track
-- OpenClaw: Run Powerful & Autonomous AI Agents Securely
 
 ---
 
