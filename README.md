@@ -128,11 +128,15 @@ pip install personakit
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Majidul17068&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majidul17068&theme=react&hide_border=true&layout=compact&langs_count=8" alt="top-langs" />
+  <a href="https://github.com/Majidul17068">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Majidul17068&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/Majidul17068">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majidul17068&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top languages" />
+  </a>
 </div>
 
 <div align="center">
