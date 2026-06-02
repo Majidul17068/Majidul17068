@@ -34,12 +34,6 @@ I am an **AI/ML Engineer & Architect** with nearly four years of hands-on experi
 
 My core expertise spans **Agentic AI architectures**, **Multi-Agent Orchestration (LangGraph, CrewAI)**, **Retrieval-Augmented Generation (RAG)**, **LLM fine-tuning & evaluation**, **Edge AI on NVIDIA Jetson with CUDA/TensorRT**, and **MLOps**. I have a strong track record across healthcare, fintech, enterprise RAG and large-scale production environments.
 
--  **Currently:** AI/ML Engineer at **TulipTech Limited**
--  **Open Source:** Author & maintainer of [`personakit`](https://pypi.org/project/personakit/) — a declarative LLM agent library on PyPI
--  **Research:** IEEE-published on banking cybersecurity (*IEEE SEM Vol-12, 2024*)
--  **Community:** Active mentor in the [AI/ML Professional Community](https://www.linkedin.com/groups/14270358/) on LinkedIn
--  **Membership:** **PMI Member** (Project Management Institute), Global
-
 ---
 
 <h2 align="center">🧰 Featured Open Source — personakit</h2>
