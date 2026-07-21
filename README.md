@@ -7,7 +7,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/Majidul17068">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%26+Architect;Agentic+AI+%7C+Multi-Agent+%7C+RAG;Edge+AI+%7C+CUDA+%7C+TensorRT;LLM+Systems+%26+MLOps+Expert;Author+of+personakit+(PyPI);IEEE+Published+Researcher;Let%27s+Build+Impactful+AI+Together" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=460&lines=AI%2FML+Engineer+%26+Architect;Agentic+AI+%7C+Multi-Agent+%7C+RAG;Edge+AI+%7C+CUDA+%7C+TensorRT;Prompt+Security+%7C+LLM+Red-Teaming;LLM+Systems+%26+MLOps+Expert;Author+of+personakit+%26+spyv+(PyPI);IEEE+Published+Researcher;Let%27s+Build+Impactful+AI+Together" alt="Typing SVG" />
     </a>
   </p>
 
@@ -17,6 +17,7 @@
     <a href="https://majidulislam.com.bd/"><img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/majidulislammurad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://pypi.org/project/personakit/"><img src="https://img.shields.io/badge/PyPI-personakit-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
+    <a href="https://pypi.org/project/spyv/"><img src="https://img.shields.io/badge/PyPI-spyv-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
     <a href="mailto:contact.majidul.islam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/sponsors/Majidul17068"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" /></a>
   </p>
@@ -32,7 +33,9 @@
 
 I am an **AI/ML Engineer & Architect** with nearly four years of hands-on experience designing, shipping and operating production-grade AI systems end-to-end — from research and fine-tuning to deployment, monitoring and observability.
 
-My core expertise spans **Agentic AI architectures**, **Multi-Agent Orchestration (LangGraph, CrewAI)**, **Retrieval-Augmented Generation (RAG)**, **LLM fine-tuning & evaluation**, **Edge AI on NVIDIA Jetson with CUDA/TensorRT**, and **MLOps**. I have a strong track record across healthcare, fintech, enterprise RAG and large-scale production environments.
+My core expertise spans **Agentic AI & Multi-Agent Orchestration (LangGraph, CrewAI)**, **RAG & GraphRAG (Neo4j)**, **LLM fine-tuning, evaluation & prompt security**, **Edge AI on NVIDIA Jetson (CUDA/TensorRT)**, and **MLOps**.
+
+I currently run two **live production platforms** — **Empathika** (healthcare AI) and a **FinTech GraphRAG** chatbot (financial fraud & corporate intelligence over Neo4j) — and author two **open-source Python tools on PyPI**: **personakit** (declarative LLM agents) and **spyv** (prompt-security testing). IEEE-published on banking cybersecurity.
 
 ---
 
@@ -70,6 +73,34 @@ pip install personakit
 
 ---
 
+<h2 align="center">Open Source — spyv</h2>
+
+<div align="center">
+  <a href="https://pypi.org/project/spyv/">
+    <img src="https://img.shields.io/pypi/v/spyv?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9" />
+  </a>
+  <a href="https://pypi.org/project/spyv/">
+    <img src="https://img.shields.io/pypi/dm/spyv?style=for-the-badge&color=00F5FF&label=downloads" />
+  </a>
+  <a href="https://github.com/Majidul17068/spyv">
+    <img src="https://img.shields.io/github/stars/Majidul17068/spyv?style=for-the-badge&logo=github&color=FFD700" />
+  </a>
+  <img src="https://img.shields.io/badge/python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
+</div>
+
+<p align="center">
+  Prompt-security testing for AI engineers. Discovers every LLM prompt in a codebase (CrewAI, LangChain, OpenAI) via static AST — no code execution — then audits, red-teams and guards them at runtime. Deterministic secret / PII / prompt-leak checkers fused with a hardened LLM judge, plus a runtime <code>@guard</code>. Bring-your-own-model (OpenAI, Anthropic, Gemini, local vLLM/Ollama).
+</p>
+
+```bash
+pip install spyv
+```
+
+🔗 **[PyPI](https://pypi.org/project/spyv/)** · **[GitHub](https://github.com/Majidul17068/spyv)**
+
+---
+
 <h2 align="center">Technical Skills</h2>
 
 <div align="center">
@@ -101,6 +132,7 @@ pip install personakit
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </div>
 <div align="center">
