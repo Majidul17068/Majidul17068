@@ -1,201 +1,36 @@
-<h1 align="center">Hi there, I'm MD. Majidul Islam! 👋</h1>
+# MD. Majidul Islam
 
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
-</div>
+**AI/ML Engineer | Agent Systems, RAG & MLOps**
 
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/Majidul17068">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=460&lines=AI%2FML+Engineer+%26+Architect;Agentic+AI+%7C+Multi-Agent+%7C+RAG;Edge+AI+%7C+CUDA+%7C+TensorRT;Prompt+Security+%7C+LLM+Red-Teaming;LLM+Systems+%26+MLOps+Expert;Author+of+personakit+%26+spyv+(PyPI);IEEE+Published+Researcher;Let%27s+Build+Impactful+AI+Together" alt="Typing SVG" />
-    </a>
-  </p>
+I build and operate AI systems, from model development and evaluation to deployment and monitoring. My work focuses on LLM applications, retrieval-augmented generation (RAG), and prompt security, with additional experience deploying models on NVIDIA Jetson.
 
-  <b>Architecting Production-Grade Agentic Intelligence</b>
+[Portfolio](https://majidulislam.com.bd/) · [LinkedIn](https://www.linkedin.com/in/majidulislammurad/) · [Email](mailto:contact.majidul.islam@gmail.com)
 
-  <p>
-    <a href="https://majidulislam.com.bd/"><img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/majidulislammurad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://pypi.org/project/personakit/"><img src="https://img.shields.io/badge/PyPI-personakit-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
-    <a href="https://pypi.org/project/spyv/"><img src="https://img.shields.io/badge/PyPI-spyv-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
-    <a href="mailto:contact.majidul.islam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/sponsors/Majidul17068"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" /></a>
-  </p>
+## Selected Work
 
-  <a href="https://github.com/Majidul17068">
-    <img src="https://komarev.com/ghpvc/?username=Majidul17068&style=for-the-badge&color=00F5FF&label=Profile+Views" alt="Profile views" />
-  </a>
-</div>
+I currently operate two production AI platforms:
 
----
+- **Empathika** — An AI platform for healthcare.
+- **FinTech GraphRAG** — A chatbot using Neo4j and graph-based retrieval for financial fraud and corporate intelligence.
 
-<h2 align="center">About Me</h2>
+## Open Source
 
-I am an **AI/ML Engineer & Architect** with nearly four years of hands-on experience designing, shipping and operating production-grade AI systems end-to-end — from research and fine-tuning to deployment, monitoring and observability.
+I author two Python tools available on PyPI:
 
-My core expertise spans **Agentic AI & Multi-Agent Orchestration (LangGraph, CrewAI)**, **RAG & GraphRAG (Neo4j)**, **LLM fine-tuning, evaluation & prompt security**, **Edge AI on NVIDIA Jetson (CUDA/TensorRT)**, and **MLOps**.
+- **[personakit](https://github.com/Majidul17068/personakit)** — A library for defining role-based LLM agents, with support for multiple model providers, tool use, and observability. [PyPI](https://pypi.org/project/personakit/)
+- **[spyv](https://github.com/Majidul17068/spyv)** — A prompt-security tool for discovering prompts in supported Python integrations, testing for vulnerabilities, and adding runtime checks. [PyPI](https://pypi.org/project/spyv/)
 
-I currently run two **live production platforms** — **Empathika** (healthcare AI) and a **FinTech GraphRAG** chatbot (financial fraud & corporate intelligence over Neo4j) — and author two **open-source Python tools on PyPI**: **personakit** (declarative LLM agents) and **spyv** (prompt-security testing). IEEE-published on banking cybersecurity.
+## Core Skills
 
----
+- **AI & machine learning:** Python, PyTorch, Hugging Face, LLM fine-tuning and evaluation.
+- **LLM applications:** LangGraph, CrewAI, RAG, GraphRAG, Neo4j, prompt-security testing.
+- **Deployment & operations:** FastAPI, Docker, Kubernetes, MLflow, Langfuse, GitHub Actions.
+- **Edge AI:** NVIDIA Jetson, CUDA, TensorRT, C++.
 
-<h2 align="center">Open Source — personakit</h2>
+## Research
 
-<div align="center">
-  <a href="https://pypi.org/project/personakit/">
-    <img src="https://img.shields.io/pypi/v/personakit?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9" />
-  </a>
-  <a href="https://pypi.org/project/personakit/">
-    <img src="https://img.shields.io/pypi/dm/personakit?style=for-the-badge&color=00F5FF&label=downloads" />
-  </a>
-  <a href="https://github.com/Majidul17068/personakit">
-    <img src="https://img.shields.io/github/stars/Majidul17068/personakit?style=for-the-badge&logo=github&color=FFD700" />
-  </a>
-  <img src="https://img.shields.io/badge/python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
-</div>
+My research includes an IEEE publication on banking cybersecurity.
 
-<p align="center">
-  A declarative Python library for building role-based LLM agents — persona, frameworks, probes and red flags as a single data object. Cross-provider runtime (OpenAI, Anthropic, 100+ via LiteLLM), streaming, OpenTelemetry hooks, token-cost tracking and a multi-turn tool loop. Audit-grade output for clinical, legal and fintech use cases.
-</p>
+## Contact
 
-```bash
-pip install personakit
-```
-
-<div align="center">
-  <a href="https://github.com/codespaces/new?repo=Majidul17068/personakit">
-    <img src="https://github.com/codespaces/badge.svg" alt="Open personakit in GitHub Codespaces" />
-  </a>
-</div>
-
-🔗 **[PyPI](https://pypi.org/project/personakit/)** · **[GitHub](https://github.com/Majidul17068/personakit)** · **[Docs](https://github.com/Majidul17068/personakit#readme)** · **[Codespace](https://github.com/codespaces/new?repo=Majidul17068/personakit)**
-
----
-
-<h2 align="center">Open Source — spyv</h2>
-
-<div align="center">
-  <a href="https://pypi.org/project/spyv/">
-    <img src="https://img.shields.io/pypi/v/spyv?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9" />
-  </a>
-  <a href="https://pypi.org/project/spyv/">
-    <img src="https://img.shields.io/pypi/dm/spyv?style=for-the-badge&color=00F5FF&label=downloads" />
-  </a>
-  <a href="https://github.com/Majidul17068/spyv">
-    <img src="https://img.shields.io/github/stars/Majidul17068/spyv?style=for-the-badge&logo=github&color=FFD700" />
-  </a>
-  <img src="https://img.shields.io/badge/python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
-</div>
-
-<p align="center">
-  Prompt-security testing for AI engineers. Discovers every LLM prompt in a codebase (CrewAI, LangChain, OpenAI) via static AST — no code execution — then audits, red-teams and guards them at runtime. Deterministic secret / PII / prompt-leak checkers fused with a hardened LLM judge, plus a runtime <code>@guard</code>. Bring-your-own-model (OpenAI, Anthropic, Gemini, local vLLM/Ollama).
-</p>
-
-```bash
-pip install spyv
-```
-
-🔗 **[PyPI](https://pypi.org/project/spyv/)** · **[GitHub](https://github.com/Majidul17068/spyv)**
-
----
-
-<h2 align="center">Technical Skills</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-1A56DB?style=for-the-badge&logoColor=white" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-00ADD8?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-7B68EE?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Langfuse-7F39FB?style=for-the-badge&logoColor=white" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</div>
-
----
-
-<h3 align="center">🔥 Things I Love</h3>
-
-<div align="center">
-
-  <img height="180" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82"  />
-  <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRlMDRpcjFzZHB4NHZxMWM1OWkyNnFjN2I1bDh2NHV3bmUwZ3RodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif"  />
-
-</div>
-
----
-
-<h2 align="center">GitHub Stats</h2>
-
-<div align="center">
-  <a href="https://github.com/Majidul17068">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Majidul17068&theme=tokyonight" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/Majidul17068">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Majidul17068&theme=tokyonight" alt="Top languages by commits" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Majidul17068">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Majidul17068&theme=tokyonight" alt="Languages by repo count" />
-  </a>
-  <a href="https://github.com/Majidul17068">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Majidul17068&theme=tokyonight" alt="Productive time" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Majidul17068&theme=react&hide_border=true" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Majidul17068&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Majidul17068/Majidul17068/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <b>⭐️ Let's Build Something Amazing Together! | <a href="https://majidulislam.com.bd/">Visit My Portfolio</a></b>
-</div>
+For professional inquiries or collaboration, reach me at [contact.majidul.islam@gmail.com](mailto:contact.majidul.islam@gmail.com).
