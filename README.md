@@ -34,3 +34,5 @@ My research includes an IEEE publication on banking cybersecurity.
 ## Contact
 
 For professional inquiries or collaboration, reach me at [contact.majidul.islam@gmail.com](mailto:contact.majidul.islam@gmail.com).
+
+<!-- credits -->
